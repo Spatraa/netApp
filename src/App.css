@@ -1,0 +1,52 @@
+.container{
+  background-color: #33367790;
+  
+}
+.logo{
+  margin-left: 300px;
+}
+.App {
+  display: grid; 
+}
+.image{
+  height: 600px;
+  width: 420px;
+  
+}
+h2{
+  margin-left: 420px;
+  font-size: 20px;
+  
+}
+li{
+  margin-left: 480px;
+ 
+}
+p{
+  margin-left: 460px;
+}
+.middle{
+ display: flex; 
+}
+.button{
+  height: 470px;
+  
+}
+#image{
+height: 500px;
+  width: 900px;
+  margin-top: 90px;
+}
+.div1{
+  font-size: 15px;
+}
+.style{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: red;
+}
+.last{
+  text-align: center;
+}
+
+
